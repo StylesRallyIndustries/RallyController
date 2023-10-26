@@ -1,6 +1,5 @@
 Bluetooth Navigation and Digital Rally Roadbook Controller
     //    Thomas Styles / S.R.I. / Styles Rally Industries
-    //    Based on work by NordicRally (https://www.instructables.com/member/NordicRally/)
 
 Complete Instructions:
 https://www.instructables.com/editor/EC0VFMWLNLRHV3S
@@ -82,3 +81,7 @@ https://www.facebook.com/profile.php?id=61552463352815
 
     v0.1, 05/08/2023
     Created new sketch and reorganised some functions and commands.
+
+    v.0, 04/08/2023
+    Thanks to Nordic Rally for the inspiration.
+    https://www.instructables.com/member/NordicRally/
