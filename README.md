@@ -1,5 +1,5 @@
 Bluetooth Navigation and Digital Rally Roadbook Controller
-    //    Thomas Styles / S.R.I. / Styles Rally Industries
+//    Thomas Styles / S.R.I. / Styles Rally Industries
 
 Complete Instructions:
 https://www.instructables.com/editor/EC0VFMWLNLRHV3S
