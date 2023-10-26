@@ -1,4 +1,17 @@
-    Functions:
+Bluetooth Navigation and Digital Rally Roadbook Controller
+    //    Thomas Styles / S.R.I. / Styles Rally Industries
+    //    Based on work by NordicRally (https://www.instructables.com/member/NordicRally/)
+
+Complete Instructions:
+https://www.instructables.com/editor/EC0VFMWLNLRHV3S
+
+STL Files:
+https://www.thingiverse.com/stylesrallyindustries/designs
+
+Support / News:
+https://www.facebook.com/profile.php?id=61552463352815
+    
+    Controller Functions:
     4 x Buttons
     2 x Toggleable Profiles
     Bluetooth LE
