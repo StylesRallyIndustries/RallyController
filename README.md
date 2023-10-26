@@ -1,4 +1,5 @@
-Bluetooth Navigation and Digital Rally Roadbook Controller
+Bluetooth Navigation and Digital Rally Roadbook Controller 
+
 Thomas Styles / S.R.I. / Styles Rally Industries
 
 Complete Instructions:
