@@ -1,4 +1,5 @@
 # RallyController
-A Bluetooth Controller for Motorcycle Navigation
+A Bluetooth Controller for Motorcycle Navigation and Digital Rally Road Books.
 
-Here are some exciting words.
+Instructions:
+https://www.instructables.com/xxxxxxxxxx/EC0VFMWLNLRHV3S
