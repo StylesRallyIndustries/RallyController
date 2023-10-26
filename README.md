@@ -1,6 +1,6 @@
-Bluetooth Navigation and Digital Rally Roadbook Controller 
+**Bluetooth Navigation and Digital Rally Roadbook Controller**
 
-Thomas Styles / S.R.I. / Styles Rally Industries
+_Thomas Styles / S.R.I. / Styles Rally Industries_
 
 ![ec8c36a5-72f2-407c-abdd-3576a458eb31](https://github.com/StylesRallyIndustries/RallyController/assets/137459771/f5cb97e0-f013-4a6f-ae62-ab97a052eafa)
 
