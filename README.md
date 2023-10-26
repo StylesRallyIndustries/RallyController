@@ -9,6 +9,7 @@
     In Locus or similar set the expected Keycode to the Constant Value / Android KeyEvent syntax
     KEYCODE_A = Constant Value: 29, KEYCODE_VOLUME_UP = Constant Value: 24
     For DMD2 you must follow the implementation guide below.
+    
     Links:
     https://www.asciitable.com/asciifull.gif
     https://developer.android.com/reference/android/view/KeyEvent
