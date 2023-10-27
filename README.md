@@ -2,7 +2,7 @@
 
 _Thomas Styles / S.R.I. / Styles Rally Industries_
 
-![ec8c36a5-72f2-407c-abdd-3576a458eb31](https://github.com/StylesRallyIndustries/RallyController/assets/137459771/f5cb97e0-f013-4a6f-ae62-ab97a052eafa)
+![Functions](https://github.com/StylesRallyIndustries/RallyController/assets/137459771/d772f6fb-78da-4c4b-a881-a0dc21712cc2)
 
 Complete Instructions:
 https://www.instructables.com/editor/EC0VFMWLNLRHV3S
