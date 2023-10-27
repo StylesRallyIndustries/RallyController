@@ -5,7 +5,7 @@ _Thomas Styles / S.R.I. / Styles Rally Industries_
 ![Functions](https://github.com/StylesRallyIndustries/RallyController/assets/137459771/d772f6fb-78da-4c4b-a881-a0dc21712cc2)
 
 Complete Instructions:
-https://www.instructables.com/editor/EC0VFMWLNLRHV3S
+https://www.instructables.com/Bluetooth-Navigation-Digital-Roadbook-Controller-4/
 
 STL Files:
 https://www.thingiverse.com/stylesrallyindustries/designs
