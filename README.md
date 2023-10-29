@@ -11,7 +11,7 @@ STL Files:
 https://www.thingiverse.com/stylesrallyindustries/designs
 
 Support / News:
-https://www.facebook.com/profile.php?id=61552463352815
+https://www.facebook.com/StylesRallyIndustriesNZ
     
     Controller Functions:
     4 x Buttons
