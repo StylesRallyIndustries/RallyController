@@ -33,6 +33,10 @@ https://www.facebook.com/StylesRallyIndustriesNZ
     https://www.rallynavigator.com/rally-navigator-mobile-application
 
     Changelog:
+    v1.1, 01/12/2023
+    Added the missing bootloader and partition .bin files,
+    Enabled Serial Output for easier troubleshooting.
+    
     v1, 26/10/2023
     Moved code to github, 
     Fixed DMD2 integration. 
